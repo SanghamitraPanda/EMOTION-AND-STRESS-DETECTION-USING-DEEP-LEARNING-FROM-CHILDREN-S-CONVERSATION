@@ -67,10 +67,6 @@ Text models: High performance using contextual understanding
 Transformer models (DistilBERT): Best accuracy among tested models
 Multimodal approach: Potential for highest accuracy
 
-Installation
-# Clone the repository
-git clone https://github.com/SanghamitraPanda/EMOTION-AND-STRESS-DETECTION-USING-DEEP-LEARNING-FROM-CHILDREN-S-CONVERSATION.git
-
 Key Findings
 ----------------
 Audio features alone are insufficient for fine-grained emotion detection
